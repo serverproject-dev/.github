@@ -6,7 +6,7 @@ here I provide some useful links.
 - [source repository](https://github.com/ewingson/solidweb.org)
 - [solidweb.me](https://solidweb.me)
 - [source repositiory](https://github.com/ewingson/solidweb.me)
-- [Doorway page](https://solidweb.me/ewingson/site/)
+- [doorway page](https://solidweb.me/ewingson/site/)
 - [same](https://www.serverproject.de/com/)
 - [old home](https://www.serverproject.de)
 - [blog](https://configedit.wordpress.com)
