@@ -2,10 +2,13 @@
 
 here I provide some useful links.
 
-- [solidweb.org](https://solidweb.org)
-- [source repository](https://github.com/ewingson/solidweb.org)
-- [solidweb.me](https://solidweb.me)
-- [source repositiory](https://github.com/ewingson/solidweb.me)
+- [solidproject.org](https://solidproject.org)
+- [github solid](https://github.com/solid)
+- [SolidOS](https://github.com/SolidOS/solidos)
+- [CSS](https://github.com/CommunitySolidServer/CommunitySolidServere)
+- [CSS docs](https://communitysolidserver.github.io/CommunitySolidServer/4.0/)
+- [Specification](https://solidproject.org/TR/protocol)
+- [Specification Editor's Draft](https://solidproject.org/ED/protocol)
 - [doorway page](https://solidweb.me/ewingson/site/)
 - [same](https://www.serverproject.de/com/)
 - [old home](https://www.serverproject.de)
