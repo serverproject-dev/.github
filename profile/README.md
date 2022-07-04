@@ -8,6 +8,8 @@ here I provide some useful links.
 - [Source repositiory](https://github.com/ewingson/solidweb.me)
 - [Doorway page](https://solidweb.me/ewingson/site/)
 - [same](https://www.serverproject.de/com/)
+- [old home](https://www.serverproject.de)
+- [blog](https://configedit.wordpress.com)
 
 <!--
 
