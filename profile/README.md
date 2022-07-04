@@ -3,9 +3,9 @@
 here I provide some useful links.
 
 - [solidweb.org](https://solidweb.org)
-- [Source repository](https://github.com/ewingson/solidweb.org)
+- [source repository](https://github.com/ewingson/solidweb.org)
 - [solidweb.me](https://solidweb.me)
-- [Source repositiory](https://github.com/ewingson/solidweb.me)
+- [source repositiory](https://github.com/ewingson/solidweb.me)
 - [Doorway page](https://solidweb.me/ewingson/site/)
 - [same](https://www.serverproject.de/com/)
 - [old home](https://www.serverproject.de)
