@@ -5,7 +5,7 @@ here I provide some useful links.
 - [solidproject.org](https://solidproject.org)
 - [github solid](https://github.com/solid)
 - [SolidOS](https://github.com/SolidOS/solidos)
-- [CSS](https://github.com/CommunitySolidServer/CommunitySolidServere)
+- [Community Solid Server](https://github.com/CommunitySolidServer/CommunitySolidServere)
 - [CSS docs](https://communitysolidserver.github.io/CommunitySolidServer/4.0/)
 - [Specification](https://solidproject.org/TR/protocol)
 - [Specification Editor's Draft](https://solidproject.org/ED/protocol)
