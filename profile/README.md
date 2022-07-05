@@ -9,8 +9,8 @@ here we provide some useful links.
 - [CSS docs](https://communitysolidserver.github.io/CommunitySolidServer/4.0/)
 - [Specification](https://solidproject.org/TR/protocol)
 - [Specification Editor's Draft](https://solidproject.org/ED/protocol)
-- [doorway page](https://solidweb.me/ewingson/site/)
-- [same](https://www.serverproject.de/com/)
+- [doorway page on a Pod](https://solidweb.me/ewingson/site/)
+- [serverproject.com](https://www.serverproject.de/com/)
 - [old home](https://www.serverproject.de)
 - [blog](https://configedit.wordpress.com)
 
