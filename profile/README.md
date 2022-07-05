@@ -1,6 +1,6 @@
 ## hello all !
 
-here I provide some useful links.
+here we provide some useful links.
 
 - [solidproject.org](https://solidproject.org)
 - [github solid](https://github.com/solid)
