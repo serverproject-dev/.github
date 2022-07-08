@@ -6,7 +6,7 @@ here we provide some useful links.
 - [github solid](https://github.com/solid)
 - [SolidOS](https://github.com/SolidOS/solidos)
 - [Community Solid Server](https://github.com/CommunitySolidServer/CommunitySolidServer)
-- [CSS docs](https://communitysolidserver.github.io/CommunitySolidServer/4.0/)
+- [CSS docs](https://communitysolidserver.github.io/CommunitySolidServer/)
 - [Specification](https://solidproject.org/TR/protocol)
 - [Specification Editor's Draft](https://solidproject.org/ED/protocol)
 - [doorway page on a Pod](https://solidweb.me/ewingson/site/)
