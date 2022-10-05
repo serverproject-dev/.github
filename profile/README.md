@@ -10,7 +10,7 @@ here we provide some useful links.
 - [Specification](https://solidproject.org/TR/protocol)
 - [Specification Editor's Draft](https://solidproject.org/ED/protocol)
 - [doorway page on a Pod](https://solidweb.me/ewingson/site/)
-- [serverproject.com](https://www.serverproject.de/com/)
+- [serverproject.com](https://www.serverproject.com/)
 - [old home](https://www.serverproject.de)
 - [blog](https://configedit.wordpress.com)
 
