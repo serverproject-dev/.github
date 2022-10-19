@@ -9,6 +9,8 @@ here we provide some useful links.
 - [CSS docs](https://communitysolidserver.github.io/CommunitySolidServer/)
 - [Specification](https://solidproject.org/TR/protocol)
 - [Specification Editor's Draft](https://solidproject.org/ED/protocol)
+- [Project Board SolidOS](https://github.com/orgs/SolidOS/projects/1/views/1)
+- [Roadmap](https://solidos.solidcommunity.net/public/Roadmap/Tasks/index.ttl#this)
 - [doorway page on a Pod](https://solidweb.me/ewingson/site/)
 - [serverproject.com](https://www.serverproject.com/)
 - [old home](https://www.serverproject.de)
