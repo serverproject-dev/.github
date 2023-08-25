@@ -13,7 +13,7 @@ here we provide some useful links.
 - [Roadmap](https://solidos.solidcommunity.net/public/Roadmap/Tasks/index.ttl#this)
 - [serverproject.com](https://www.serverproject.com/)
 - [old home](https://www.serverproject.de)
-- [blog](https://configedit.wordpress.com)
+- [blog](https://configedit.com)
 - [meisdata.io](https://meisdata.io)
 
 <!--
