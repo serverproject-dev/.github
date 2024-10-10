@@ -17,6 +17,9 @@ here we provide some useful links.
 - [Pod Startpage](https://solidweb.me/testpro/)
 - [meisdata.io](https://meisdata.io)
 
+and saying:
+... and you can't smoke this and you can't snore that ...
+... and you can't load this and you can't save that ...
 <!--
 
 **Here are some ideas to get you started:**
