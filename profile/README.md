@@ -16,6 +16,8 @@ here we provide some useful links.
 - [blog](https://configedit.com)
 - [Pod Startpage](https://solidweb.me/testpro/)
 - [meisdata.io](https://meisdata.io)
+- [minutes WG](https://www.w3.org/groups/wg/lws/calendar/?past=1&tf=0)
+- [tools](https://www.w3.org/groups/wg/lws/tools/)
 
 and saying:
 ... and you can't smoke this and you can't snore that ...
