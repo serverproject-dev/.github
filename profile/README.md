@@ -19,9 +19,6 @@ here we provide some useful links.
 - [minutes WG](https://www.w3.org/groups/wg/lws/calendar/?past=1&tf=0)
 - [tools](https://www.w3.org/groups/wg/lws/tools/)
 
-and saying:
-... and you can't smoke this and you can't snore that ...
-... and you can't load this and you can't save that ...
 <!--
 
 **Here are some ideas to get you started:**
