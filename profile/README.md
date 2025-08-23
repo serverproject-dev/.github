@@ -19,6 +19,8 @@ here we provide some useful links.
 - [minutes WG](https://www.w3.org/groups/wg/lws/calendar/?past=1&tf=0)
 - [tools](https://www.w3.org/groups/wg/lws/tools/)
 
+currently I am learning javascript. M.Evering, *1968-11-01, @ewingson
+
 <!--
 
 **Here are some ideas to get you started:**
